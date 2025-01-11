@@ -147,11 +147,6 @@ a:focus {
   padding-left: 25px;
 }
 
-.navbar_navbar-expand-lg_custom_nav-container{
-  display: flex;
-  align-items: center;
-}
-
 .navbar-brand {
   font-family: 'Dancing Script', cursive;
 }
@@ -168,7 +163,6 @@ a:focus {
 
 .custom_nav-container .navbar-nav {
   padding-left: 18%;
-
 }
 
 .custom_nav-container .navbar-nav .nav-item .nav-link {
@@ -506,7 +500,6 @@ a:focus {
 .food_section .filters_menu li.active {
   background-color: #222831;
   color: #ffffff;
-  font-size: 50px;
 }
 
 .food_section .box {
@@ -1012,10 +1005,3 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
-
-
-.nav_all{
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
